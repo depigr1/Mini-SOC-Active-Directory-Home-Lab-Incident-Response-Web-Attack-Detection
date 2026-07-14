@@ -4,11 +4,6 @@
 
 **An end-to-end Security Operations Center lab for log collection, cyber kill chain simulation, incident investigation, and web attack detection.**
 
-[![Splunk](https://img.shields.io/badge/SIEM-Splunk%20Enterprise-black?style=for-the-badge&logo=splunk&logoColor=white)]()
-[![Hypervisor](https://img.shields.io/badge/Hypervisor-VirtualBox-blue?style=for-the-badge)]()
-[![Kali Linux](https://img.shields.io/badge/Attacker-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)]()
-[![Windows Server](https://img.shields.io/badge/AD-Windows%20Server%202022-blue?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
 
 </div>
 
