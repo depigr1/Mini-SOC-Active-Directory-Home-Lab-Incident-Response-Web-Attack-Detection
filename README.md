@@ -14,9 +14,28 @@
 
 ---
 
+# 📄 Project Documentation
+
+The complete documentation for this project is available in the **docs/** directory.
+
+```text
+docs/
+├── Project_1.pdf
+└── Project_2.pdf
+```
+
+- 📘 **Project 1 – Active Directory & SIEM Infrastructure**
+  - [View PDF](docs/Project_1.pdf)
+
+- 📗 **Project 2 – Incident Response & Web Attack Detection**
+  - [View PDF](docs/Project_2.pdf)
+
+---
+
 # 📑 Table of Contents
 
 - [Overview](#-overview)
+- [Project Documentation](#-project-documentation)
 - [Lab Environment & Network](#-lab-environment--network)
 - [Project Architecture](#-project-architecture)
 - [Security Components](#-security-components)
@@ -197,3 +216,8 @@ Detection rules were created for DVWA attacks, including:
 
 ---
 
+<div align="center">
+
+⭐ **If you found this project useful, consider giving it a star!**
+
+</div>
